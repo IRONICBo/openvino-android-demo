@@ -1,2 +1,3 @@
 # openvino-android-demo
-# openvino-android-demo
+
+Temporary repository for ARM Android application.
